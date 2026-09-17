@@ -3,9 +3,6 @@
 **Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs
 for Confidential Industrial Work**
 
-SIH 2026 · Problem Statement **26117** · Mangalore Refinery and Petrochemicals
-Limited (MRPL) · Team **Smashers**
-
 ---
 
 An agentic AI workbench that runs entirely inside a plant's own network. No
